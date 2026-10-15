@@ -1,6 +1,6 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"","url":"","children":[{"displayName":"City of Hamburg: Distributing funding grants faster with an AI-enabled technology platform","url":"contents/stories/city-of-hamburg/topics/hero"},{"displayName":"City of Hamburg: Distributing funding grants faster with an AI-enabled technology platform","url":"contents/stories/city-of-hamburg/topics/hero"},{"displayName":"City of Hamburg: Distributing funding grants faster with an AI-enabled technology platform","url":"contents/stories/city-of-hamburg/topics/hero"},{"displayName":"City of Hamburg: Distributing funding grants faster with an AI-enabled technology platform","url":"contents/stories/city-of-hamburg/topics/hero"},{"displayName":"City of Hamburg: Distributing funding grants faster with an AI-enabled technology platform","url":"contents/stories/city-of-hamburg/topics/hero"},{"displayName":"City of Hamburg: Distributing funding grants faster with an AI-enabled technology platform","url":"contents/stories/city-of-hamburg/topics/hero"}]}]
-const mapTitle = "City of Hamburg: Distributing funding grants faster with an AI-enabled technology platform"
+const treeData = []
+const mapTitle = "checklas-otomotiv-sap-business-one"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
 function expandHeirarchy(element, root) {
