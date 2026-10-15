@@ -1,1 +1,1 @@
-export default []
+export default [{"displayName":"Turkish tire hotels automate and grow with SAP Business One","url":"contents/topics/checklas-otomotiv-sap-business-one"}]
