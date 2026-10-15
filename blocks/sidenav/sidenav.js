@@ -1,6 +1,6 @@
 import { migrateTree } from "../utils.js";
-const treeData = []
-const mapTitle = "checklas-otomotiv-sap-business-one"
+const treeData = [{"displayName":"Turkish tire hotels automate and grow with SAP Business One","url":"contents/topics/checklas-otomotiv-sap-business-one"}]
+const mapTitle = "Checklas EDS preview"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
 function expandHeirarchy(element, root) {
